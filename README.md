@@ -38,10 +38,7 @@ Version Control: The project was initialized as a Git repository and pushed to G
 
 3. Implementation Details
 The following files represent the final implementation of the design:
+
 index.html: Contains the site structure and the EstateFlow brand elements.
 style.css: Contains the "Graphically Appealing" styles, including button-style navigation and grid layouts.
-script.js: Handles functional interactions and dynamic footer data.
-
-style.css: Contains the "Graphically Appealing" styles, including button-style navigation and grid layouts.
-
 script.js: Handles functional interactions and dynamic footer data.
